@@ -4,6 +4,8 @@
 
 **Platform:** BEP20
 
+**Decimal:** 18
+
 **Quantity:** 1,000,000,000
 
 **Contract Address:**
